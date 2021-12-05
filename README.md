@@ -1,3 +1,5 @@
+Hastane Yönetim ve Randevu Sistemi Otomasyon Projesi 
+
 Murat Yücedağ'ın "Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti" başlıklı eğitiminden bir örnektir. #https://www.udemy.com/course/sifirdan-ileri-seviye-csharp-programlama/
 
 
