@@ -1,5 +1,3 @@
-# Proje_Hastane
-MuratYucedag,HastaneProjesi,C#
 Murat Yücedağ'ın "Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti" başlıklı eğitiminden bir örnektir. #https://www.udemy.com/course/sifirdan-ileri-seviye-csharp-programlama/
 
 
